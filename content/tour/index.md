@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Robotic Manipulation Lab
+        content: ''
         align: right
         background:
           image:

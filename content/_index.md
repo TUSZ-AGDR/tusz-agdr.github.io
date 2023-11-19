@@ -8,14 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Arbeit Gruppe Dexterous Robotics** was founded in 7th, Oct, 2023 when the Principal Investigator - Dr. Qiang Li joined the Shenzhen technology University. It is a research group which is focusing on improving the dexterity of robots with the hybrid approaches. The research vision of the group is to developing the most advanced intelligent manipulation robots in the world. 
+        
+        The three important research branches of this group: 
+
+        **Tactile Robotics** 
+
+        **Robotic Skill Learning**
+
+        **Human-Robot-Interaction**
   
   - block: collection
     content:
