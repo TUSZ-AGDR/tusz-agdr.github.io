@@ -1,6 +1,6 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University俄 ](https://github.com/TUSZ-AGDR)
 
-[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
+<!--[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
@@ -33,7 +33,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-## Demo credits
+## Demo credits-->
 
 Please replace the demo images with your own.
 
