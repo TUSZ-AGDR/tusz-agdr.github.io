@@ -1,4 +1,4 @@
-# [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University俄 ](https://github.com/TUSZ-AGDR)
+# [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University](https://github.com/TUSZ-AGDR)
 
 <!--[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
