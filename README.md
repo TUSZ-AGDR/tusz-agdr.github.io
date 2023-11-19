@@ -1,4 +1,4 @@
-# [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University](https://github.com/TUSZ-AGDR)
+# [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University俄 ](https://github.com/TUSZ-AGDR)
 
 <!--[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
@@ -33,7 +33,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-## Demo credits-->
+## Demo credits
 
 Please replace the demo images with your own.
 
@@ -45,4 +45,4 @@ Please replace the demo images with your own.
   - https://unsplash.com/photos/OYzbqk2y26c
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+  - https://unsplash.com/photos/WNoLnJo7tS8-->
