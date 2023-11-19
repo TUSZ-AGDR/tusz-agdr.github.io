@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Qiang Li a full professor at Shenzhen Technology University (SZTU) in China. Before joining the SZTU, he was a Principle Investigator at the Center for Cognitive Interaction Technology (CITEC) in Bielefeld University. He is also the President of Association of Chinese Computer Scientists in Germany.
