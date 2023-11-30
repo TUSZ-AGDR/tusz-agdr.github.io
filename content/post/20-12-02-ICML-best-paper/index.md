@@ -1,5 +1,5 @@
 ---
-title: Welcome 5 new members to join AGDR for their Bachelor thesis
+title: Welcome 5 new members to join AGDR for their Bachelor thesi
 date: 2023-11-17
 image:
   focal_point: 'top'
