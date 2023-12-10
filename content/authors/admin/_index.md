@@ -15,7 +15,7 @@ role: Professor and header of AG
 # Organizations/Affiliations
 organizations:
   - name: Dep. Computer science and technology
-    url: ''
+    url: 'https://bdi.sztu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include underwater robot, collaborative robots, humanoid robots.
@@ -24,6 +24,7 @@ interests:
   - Tactile Robotics
   - Robotic skill learning
   - Human-Robot-Interaction
+  - Robotic application in IoT
 
 education:
   courses:
