@@ -1,5 +1,16 @@
 # [Arbeit Gruppe Dexterous Robotics (AGDR) @ Shenzhen Technology University](https://github.com/TUSZ-AGDR)
 
+https://docs.hugoblox.com/getting-started/install-hugo/
+
+install depended packages
+
+in order to testing the developed webpage:
+
+hugo server -D
+http://localhost:1313/
+
+
+
 <!--[![Screenshot](./preview.png)](https://hugoblox.com/hugo-themes/)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
