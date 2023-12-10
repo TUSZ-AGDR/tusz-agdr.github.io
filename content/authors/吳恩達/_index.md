@@ -72,6 +72,8 @@ email: ''
 user_groups:
   - Researchers
   - Visitors
+  - PhD Students
+  - Master Students
   - Bachelor Students
 ---
 
