@@ -12,16 +12,18 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
+
+        Dexterous robotic manipulation is one of the top ten cutting-edge technologies in the field of intelligent robots. It is also an important breakthrough way to improve the level of intelligence society and improve peoples quality of life in the fields of industry, agriculture, medical rehabilitation and elderly care, logistics, and space/ocean. The research team combines fundamental research in robotics with industry needs to lay out four key research directions:
+
+ 
+        - **Robot tactile perception and control**
+        - **Multimodal and robotic skill learning**
+        - **Human-computer interaction**
+        - **Integration and application of intelligent robots in the Internet of Things**
+
+
+        Through a combination of independent R&D and international cooperation, we carry out applciation driven fundamental research, prototype development, demonstration verification and industrialization work, The vision of our group is to build a world-class robotics laboratory and to develop the best mannipulating robots.
         
-        The **Arbeit Gruppe Dexterous Robotics** was founded in 7th, Oct, 2023 when the Principal Investigator - Dr. Qiang Li joined the Shenzhen technology University. It is a research group which is focusing on improving the dexterity of robots with the hybrid approaches. The research vision of the group is to developing the most advanced intelligent manipulation robots in the world. 
-        
-        The three important research branches of this group: 
-
-        **Tactile Robotics** 
-
-        **Robotic Skill Learning**
-
-        **Human-Robot-Interaction**
   
   - block: collection
     content:
