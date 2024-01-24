@@ -1,6 +1,6 @@
 ---
 title: Multiple opened postdoc position in SZTU
-date: 2024-01-24
+date: 2024-1-24
 image:
   focal_point: 'top'
 ---
