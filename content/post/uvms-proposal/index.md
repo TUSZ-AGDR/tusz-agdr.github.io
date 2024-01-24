@@ -8,5 +8,3 @@ image:
 Our proposal on Tactile modeling, perception and simulation for Underwater Vehicle Manipulator System is accepted. The work will be done in the context of open project in State Key Laboratory of Robotics(2024). 
 
 <!--more-->
-
-
