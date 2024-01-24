@@ -1,5 +1,5 @@
 ---
-title: AGDR visit UB tech in Shenzhen
+title: Proposal of the open project State Key Lab of Robotics is accepted
 date: 2023-12-28
 image:
   focal_point: 'top'
