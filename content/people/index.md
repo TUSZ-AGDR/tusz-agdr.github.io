@@ -16,7 +16,6 @@ sections:
           - PhD Students
           - Master Students
           - Bachelor Students
-          - Administration
           - Visitors
           - Alumni
       sort_by: Params.last_name
