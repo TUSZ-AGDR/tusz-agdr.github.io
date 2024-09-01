@@ -48,7 +48,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mqchen0916@outlook.com'
+    link: 'mailto:mqchen0916@outlook.com'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/mqchen0916'

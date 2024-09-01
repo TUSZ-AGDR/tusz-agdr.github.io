@@ -47,7 +47,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2465216809s@gmail.com'
+    link: 'mailto:2465216809s@gmail.com'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/DedSecer'

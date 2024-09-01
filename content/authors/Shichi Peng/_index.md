@@ -48,7 +48,7 @@ interests:
 social:
   - icon: github
     icon_pack: fab
-    link: '2961044927@qq.com'
+    link: 'mailto:2961044927@qq.com'
   - icon: weixin
     icon_pack: fab
     link: 'lufi2004'

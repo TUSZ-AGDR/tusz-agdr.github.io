@@ -48,7 +48,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'shukun6668@gmail.com'
+    link: 'mailto:shukun6668@gmail.com'
   - icon: github
     icon_pack: fab
     link: 'https://shockley6668.github.io/'

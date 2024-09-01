@@ -48,9 +48,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Aliciaqiu@gmail.com'
+    link: 'mailto:Aliciaqiu@gmail.com'
   - icon: phone
-    icon_pack: fab
+    icon_pack: fas
     link: '+86 13719512276'
 
 # Link to a PDF of your resume/CV from the About widget.
