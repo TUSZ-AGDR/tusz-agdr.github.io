@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Han Xu
+title: Zhaoyang Wu
 
 # Full name (for SEO)
-first_name:  Han
-last_name: Xu
+first_name:  Zhaoyang
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - Han Xu
+  - Zhaoyang Wu
 
 # Is this the primary user of the site?
 superuser: false
@@ -45,13 +45,8 @@ superuser: false
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:1928756830@qq.com'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xu557225@gmail.com'
+# social:
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,5 +60,5 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Bachelor Students
+  - PhD Students
 ---

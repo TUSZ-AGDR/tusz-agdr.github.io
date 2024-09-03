@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Han Xu
+title: Jinluan Deng
 
 # Full name (for SEO)
-first_name:  Han
-last_name: Xu
+first_name:  Jinluan
+last_name: Deng
 
 # Username (this should match the folder name)
 authors:
-  - Han Xu
+  - Jinluan Deng
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,10 +24,9 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - swimming
+
 
 # education:
 #   courses:
@@ -45,13 +44,10 @@ superuser: false
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:1928756830@qq.com'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xu557225@gmail.com'
+# social:
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/liqiang1980
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

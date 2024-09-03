@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Han Xu
+title: Jiayang Huang
 
 # Full name (for SEO)
-first_name:  Han
-last_name: Xu
+first_name:  Jiayang
+last_name: Huang
 
 # Username (this should match the folder name)
 authors:
-  - Han Xu
+  - Jiayang Huang
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,10 +24,9 @@ superuser: false
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - LLM
+  - Robotics
 
 # education:
 #   courses:
@@ -48,10 +47,10 @@ superuser: false
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1928756830@qq.com'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xu557225@gmail.com'
+    link: 'mailto:hjyoung1108@gmail.com'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Young1108
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,3 +66,4 @@ email: ''
 user_groups:
   - Bachelor Students
 ---
+Stay foolish, stay hungry

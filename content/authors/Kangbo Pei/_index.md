@@ -1,33 +1,32 @@
 ---
 # Display name
-title: Han Xu
+title: Kangbo Pei
 
 # Full name (for SEO)
-first_name:  Han
-last_name: Xu
+first_name:  Kangbo
+last_name: Pei
 
 # Username (this should match the folder name)
 authors:
-  - Han Xu
+  - Kangbo Pei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-# role: ROS application
+role: students
 
 # Organizations/Affiliations
-# organizations:
-#   - name: TUSZ-AGDR
-#     url: 'https://github.com/TUSZ-AGDR'
+organizations:
+  - name: uvms
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - swim
+
 
 # education:
 #   courses:
@@ -46,12 +45,9 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: phone
     icon_pack: fas
-    link: 'mailto:1928756830@qq.com'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:xu557225@gmail.com'
+    link: '+86 15236450689'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
