@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Shichi Peng
+title: Zhenyuan Zhang
 
 # Full name (for SEO)
-first_name:  Shichi
-last_name: Peng
+first_name:  Zhenyuan
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Shichi Peng
+  - Zhenyuan Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: bachelor student
+role: Dexterous hand design
 
 # Organizations/Affiliations
-organizations:
-  - name: TUSZ-AGDR
-    url: 'https://github.com/TUSZ-AGDR'
+# organizations:
+#   - name: TUSZ-AGDR
+#     url: 'https://github.com/TUSZ-AGDR'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Manipulator motion planning
+# interests:
+#   - Artificial Intelligence
 #   - Computational Linguistics
 #   - Information Retrieval
 
@@ -46,12 +46,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:Zhangzhenyuan51@outlook.com'
   - icon: github
     icon_pack: fab
-    link: 'mailto:2961044927@qq.com'
+    link: 'https://github.com/MichDrei'
   - icon: weixin
     icon_pack: fab
-    link: 'tel:lufi2004'
+    link: 'tel:DK13078659897'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,4 +70,3 @@ email: ''
 user_groups:
   - Bachelor Students
 ---
-深圳技术大学本科在读

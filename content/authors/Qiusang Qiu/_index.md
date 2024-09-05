@@ -51,7 +51,7 @@ social:
     link: 'mailto:Aliciaqiu@gmail.com'
   - icon: phone
     icon_pack: fas
-    link: '+86 13719512276'
+    link: 'tel:+86 13719512276'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
