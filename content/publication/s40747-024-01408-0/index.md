@@ -26,7 +26,7 @@ author_notes:
   Corresponding author'
   - 'Neuroinformatics Group, Center for Cognitive Interaction Technology (CITEC), Bielefeld University, 33619 Bielefeld, Germany qli@techfak.uni-bielefeld.de'
  
-date: '2023-12-130T00:00:00Z'
+date: '2023-12-13T00:00:00Z'
 doi: '10.1142/S0219843623500330'
 
 # Schedule page publish date (NOT publication's date).
