@@ -6,6 +6,10 @@ title: Jingke Lv
 first_name: Jingke
 last_name: Lv
 
+# Username (this should match the folder name)
+authors:
+  - Jingke Lv
+
 # Is this the primary user of the site?
 superuser: false
 

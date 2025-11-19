@@ -6,6 +6,10 @@ title: Siyu Luo
 first_name: Siyu
 last_name: Luo
 
+# Username (this should match the folder name)
+authors:
+  - Siyu Luo
+
 # Is this the primary user of the site?
 superuser: false
 

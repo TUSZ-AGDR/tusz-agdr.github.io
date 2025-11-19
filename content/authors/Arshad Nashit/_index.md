@@ -6,6 +6,10 @@ title: Arshad Nashit
 first_name: Arshad
 last_name: Nashit
 
+# Username (this should match the folder name)
+authors:
+  - Arshad Nashit
+
 # Is this the primary user of the site?
 superuser: false
 

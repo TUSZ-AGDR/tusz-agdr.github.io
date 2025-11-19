@@ -6,6 +6,10 @@ title: Weilun Ye
 first_name: Weilun
 last_name: Ye
 
+# Username (this should match the folder name)
+authors:
+  - Weilun Ye
+
 # Is this the primary user of the site?
 superuser: false
 
