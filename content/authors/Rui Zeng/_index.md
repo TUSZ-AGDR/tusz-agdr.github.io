@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelor Students
+role: Students
 
 # Organizations/Affiliations
 # organizations:
@@ -25,8 +25,6 @@ role: Bachelor Students
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - ROS control
-  - Linux System
 
 # education:
 #   courses:
