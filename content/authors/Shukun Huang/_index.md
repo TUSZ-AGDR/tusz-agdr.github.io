@@ -65,6 +65,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Bachelor Students
+  - Alumni
 ---
 I am Shukun Huang, and currently studying Computer Science at Shenzhen Technology University. I previously served as the leader of the electronic control team, where I led my team in the 2024 RoboMaster Robotics Competition. I contributed to building the underlying framework for general-purpose embedded software for robots and was involved in developing 3D SLAM navigation and decision-making algorithms. I specialize in embedded development, ROS operating systems, and robot motion control. Currently, I am conducting research on the dexterous hand project in this lab

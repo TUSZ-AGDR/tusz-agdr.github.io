@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
+          - Research Assistant
           - PhD Students
           - Master Students
           - Bachelor Students
