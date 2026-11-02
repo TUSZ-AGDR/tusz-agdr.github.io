@@ -8,7 +8,7 @@ last_name: Lukawski
 
 # Username (this should match the folder name)
 authors:
-  - Visiting Researcher
+  - Bartosz Piotr Lukawski
 
 # Is this the primary user of the site?
 superuser: false
