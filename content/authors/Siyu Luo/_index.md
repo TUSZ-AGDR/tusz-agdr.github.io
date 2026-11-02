@@ -18,8 +18,8 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-  - name: College of Big Data
-    url: 'https://bdi.sztu.edu.cn/'
+  - name: School of Artificial Intelligence
+    url: 'https://ai.sztu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
